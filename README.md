@@ -1,8 +1,12 @@
 ﻿# Projet-Trinome-v0
-Projet Trinôme
+
+Projet Trinôme: coding week 1. 
+
+Eleves: 
 #Yannick Dietz
-<<<<<<< HEAD
 #Pierre Caprasse
-=======
 #Marvin Poiron
->>>>>>> 1b677abcc09792a9f75ddeb1f64def75d9bdcfd3
+
+Contenu:
+Voici le code de notre projet pour la coding week. 
+
