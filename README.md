@@ -11,8 +11,3 @@ Contenu:
 Voici le code de notre projet pour la coding week. 
 
 https://gitlab-student.centralesupelec.fr/celine.hudelot/cs_coding_weeks_raspberry_pi
-
-je 
-rajoute 
-des
-lignes
