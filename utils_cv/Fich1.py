@@ -1,4 +1,5 @@
 import numpy as np
+import cv2 as cv
 
 chdir='C://Users//Marvin//Documents//CentraleSupélec//Cours//CodingWeeks//Projet-Trinome-v0//data//tetris_blocks.png'
 tetris='tetris_blocks.png'
