@@ -17,5 +17,9 @@ https://gitlab-student.centralesupelec.fr/celine.hudelot/cs_coding_weeks_raspber
 
 pleaseletthiswork
 
-on va voir si ca marcheou pas
+on va voir si ca marche ou pas
+
+#14/11/2018
+test0 du j2
+
 
