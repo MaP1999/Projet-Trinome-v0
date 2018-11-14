@@ -1,4 +1,5 @@
-#debut du code
-def test(a,b):
-    return  a+b
-print(test(2,3))
+from utils_cv.load_and_display_imagep import load_and_display_image
+
+path ='C://Users//pitchoun2//Projet-Trinome-v0//Data//lenna.jpg'
+load_and_display_image(path)
+

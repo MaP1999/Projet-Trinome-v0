@@ -10,7 +10,9 @@ Eleves:
 Contenu:
 Voici le code de notre projet pour la coding week. 
 
-Ceci est un test.
-test2
-
 https://gitlab-student.centralesupelec.fr/celine.hudelot/cs_coding_weeks_raspberry_pi
+
+je 
+rajoute 
+des
+lignes
