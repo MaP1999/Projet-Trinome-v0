@@ -18,4 +18,6 @@ def reconnaissance_faciale():
     cv.destroyAllWindows()
     return
 
-reconnaissance_faciale()
+if __name__=="__main__":
+    reconnaissance_faciale()
+#activate nom env virtuelle
