@@ -1,9 +1,9 @@
 import numpy as np
 import cv2 as cv
 def reconnaissance_faciale():
-    face_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
-    eye_cascade = cv.CascadeClassifier('haarcascade_eye.xml')
-    img = cv.imread('Data//lenna.jpg')
+    face_cascade = cv.CascadeClassifier('Documents/CentraleSupelec/Cours/CodingWeeks/Projet-Trinome-v0/haarcascade_frontalface_default.xml')
+    eye_cascade = cv.CascadeClassifier('Documents/CentraleSupelec/Cours/CodingWeeks/Projet-Trinome-v0/haarcascade_eye.xml')
+    img = cv.imread('Documents/CentraleSupelec/Cours/CodingWeeks/Projet-Trinome-v0/bebe.jpg')
     gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     faces = face_cascade.detectMultiScale(gray, 1.3, 5)
     for (x,y,w,h) in faces:
