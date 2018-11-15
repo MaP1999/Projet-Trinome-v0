@@ -1,7 +1,9 @@
 
-import cv2
+import cv2 as cv
+import numpy as np
+
 def load_and_display_image(filename):
-    img = cv2.imread(filename)
+    img = cv.imread(filename)
     taille = img.shape[:2]
     px=[]
     for i in range(taille[0]):
@@ -9,9 +11,9 @@ def load_and_display_image(filename):
              px =img[i,j]
              moyenne = (px[0]+px[1]+px[2])/3
              img[i,j] = [moyenne,moyenne,moyenne]
-    print(px)
-    cv2.imshow('image',img)
-    cv2.waitKey(0)
+    # print(px)
+    cv.imshow('image',img)
+    cv.waitKey(0)
     #return
 
 
